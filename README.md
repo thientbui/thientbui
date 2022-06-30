@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thientbui
-- 👀 I’m interested in photography, data analytics, public health, and technology
-- 🌱 I’m currently learning Python, SQL, and Javascript 
-- 💞️ I’m looking to collaborate on side projects related to healthcare data analytics 
+- 👀 I’m passsionate about data analytics, public health, and technology solutions
+- 🌱 I’m currently learning Java, SQL, and Springboot  
+- 💞️ I’m looking to collaborate on side projects to build my portfolio and meet other software developers 
 - 📫 How to reach me thientanbui@gmail.com
 
 <!---
