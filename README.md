@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thientbui
 - 👀 I’m passsionate about data analytics, public health, and technology solutions
-- 🌱 I’m currently learning Java, SQL, and Springboot  
+- 🌱 I’m currently learning Java, SQL, and Springboot @PromineoTech
 - 💞️ I’m looking to collaborate on side projects to build my portfolio and meet other software developers 
 - 📫 How to reach me thientanbui@gmail.com
 
