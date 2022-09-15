@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thientbui
-- 👀 I’m interested in data analytics, big data, and technology innovation.
+- 👋 Hi, I’m Thien 
+- 👀 Interests: web development, data analytics, and technology innovation.
 - 🌱 I’m currently learning web development including Java, SQL, and Springboot @PromineoTech
-- 📫 How to reach me thientanbui@gmail.com or PM me! 
+- 📫 How to reach me: thientanbui@gmail.com or PM me! 
 
 <!---
 thientbui/thientbui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
